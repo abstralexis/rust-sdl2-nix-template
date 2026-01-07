@@ -1,2 +1,2 @@
 # rust-sdl2-nix-template
-I spent 3 hours trying to make a config for raylib, rust, and nix. didnt work, did sdl2 instead.
+This template has not been thoroughly tested, and at the time of writing is over one year old. I do not intend on maintaining this actively, but feel free to make forks and pull requests to this!
